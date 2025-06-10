@@ -4,3 +4,4 @@ __pycache__/
 .envrc
 .env
 .llm_zoomcamp
+.virtual_documents
